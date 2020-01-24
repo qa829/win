@@ -1,3 +1,5 @@
 os: windows
+group: dev
 script:
-- ls
+- df -lh
+- systeminfo
