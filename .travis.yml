@@ -1,5 +1,4 @@
-os: windows
+dist: xenial
 group: dev
 script:
-- df -lh
-- systeminfo
+- ls
