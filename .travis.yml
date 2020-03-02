@@ -1,4 +1,4 @@
-dist: xenial
-group: dev
+dist: 1803-containers
+# group: dev
 script:
 - ls
